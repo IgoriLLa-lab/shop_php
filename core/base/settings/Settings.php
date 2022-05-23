@@ -8,7 +8,7 @@ class Settings
 
     private $routes = [
         'admin' => [
-            'name' => 'admin',
+            'alias' => 'admin',
             'path' => 'core/admin/controller/',
             'hrUrl' => false
         ],
