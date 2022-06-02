@@ -23,7 +23,7 @@ class RouteController
     }
 
     //singleton pattern
-    static public function getInstance()
+    static public function getInstance(): RouteController
     {
         if (self::$_instance instanceof self) {
             return self::$_instance;
@@ -47,9 +47,11 @@ class RouteController
 
             if (!$this->routes) throw new RouteException('Сайт находится на техническом обслуживании');
 
-            if (strpos($address_str, $this->routes['admin']['alias']) === strlen(PATH)) {
+            $url = explode('/', substr($address_str, strlen(PATH)));
 
-                $url = explode('/', substr($address_str, strlen(PATH . $this->routes['admin']['alias']) + 1));
+            if ($url[0] && $url[0] === $this->routes['admin']['alias']) {
+
+                array_shift($url);
 
                 if ($url[0] && is_dir($_SERVER['DOCUMENT_ROOT'] . PATH . $this->routes['plugins']['path'] . $url[0])) {
 
@@ -80,7 +82,6 @@ class RouteController
                 }
 
             } else {
-                $url = explode('/', substr($address_str, strlen(PATH)));
 
                 $hrUrl = $this->routes['user']['hrUrl'];
 
