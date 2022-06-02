@@ -9,15 +9,14 @@ use core\base\settings\ShopSettings;
 //через этот класс идет вся система маршрутов (точка входа системы контроллеров)
 class RouteController
 {
-    static private $_instance;
+    static private $_instance; //
 
-    protected $routes;
+    protected $routes; // св-во маршрутов из settings
 
-    protected $controller;
-    protected $inputMethod;
-    protected $outputMethod;
-    protected $parameters;
-
+    protected $controller; //
+    protected $inputMethod; // св-во в тором будет храниться метод собирающий данные из БД
+    protected $outputMethod; // в нем будет храниться метод который будет отвечать за подключение видов
+    protected $parameters; // параметр
 
     private function __clone()
     {
@@ -34,16 +33,16 @@ class RouteController
 
     private function __construct()
     {
+        $address_str = $_SERVER['REQUEST_URI']; //1. получаем адресную строку из глобального массива Сервер
 
-        $address_str = $_SERVER['REQUEST_URI'];
 
-        if (strrpos($address_str, '/') === strlen($address_str) - 1 && strrpos($address_str, '/') != 0) {
+        if (strrpos($address_str, '/') === strlen($address_str) - 1 && strrpos($address_str, '/') !== 0) {
             $this->redirect(rtrim($address_str, '/', 301));
         }
 
         $path = substr($_SERVER['PHP_SELF'], 0, strrpos($_SERVER['PHP_SELF'], 'index.php'));
 
-        if ($path = PATH) {
+        if ($path === PATH) {
             $this->routes = Settings::get('routes');
 
             if (!$this->routes) throw new RouteException('Сайт находится на техническом обслуживании');
@@ -72,28 +71,6 @@ class RouteController
 
                     $route = 'plugins';
 
-                    if ($url[1]) {
-                        $count = count($url);
-                        $key = '';
-
-                        if (!$hrUrl) {
-                            $i = 1;
-                        } else {
-                            $this->parameters['alias'] = $url[1];
-                            $i = 2;
-                        }
-
-                        for (; $i < $count; $i++) {
-                            if (!$key) {
-                                $key = $url[$i];
-                                $this->parameters[$key] = '';
-                            } else {
-                                $this->parameters[$key] = $url[$i];
-                                $key = '';
-                            }
-                        }
-                    }
-
                 } else {
                     $this->controller = $this->routes['admin']['path'];
 
@@ -103,23 +80,42 @@ class RouteController
                 }
 
             } else {
-                $url = explode('/', substr($address_str, strlen(PATH0)));
+                $url = explode('/', substr($address_str, strlen(PATH)));
 
                 $hrUrl = $this->routes['user']['hrUrl'];
 
-                $this->controller = $this->routes['user'][PATH];
+                $this->controller = $this->routes['user']['path'];
 
                 $route = 'user';
-
             }
 
             $this->createRoute($route, $url);
 
-            exit();
+            if ($url[1]) {
+                $count = count($url);
+                $key = '';
+
+                if (!$hrUrl) {
+                    $i = 1;
+                } else {
+                    $this->parameters['alias'] = $url[1];
+                    $i = 2;
+                }
+
+                for (; $i < $count; $i++) {
+                    if (!$key) {
+                        $key = $url[$i];
+                        $this->parameters[$key] = '';
+                    } else {
+                        $this->parameters[$key] = $url[$i];
+                        $key = '';
+                    }
+                }
+            }
 
         } else {
             try {
-                throw new \Exception('Не корректная деректория сайта');
+                throw new \Exception('Не корректная директория сайта');
             } catch (\Exception $e) {
                 exit($e->getMessage());
             }

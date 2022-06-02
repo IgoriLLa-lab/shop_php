@@ -6,11 +6,15 @@ class Settings
 {
     static private $_instance;
 
+    //массив маршрутов
     private $routes = [
         'admin' => [
             'alias' => 'admin',
             'path' => 'core/admin/controller/',
-            'hrUrl' => false
+            'hrUrl' => false,
+            'routes'=> [
+
+            ]
         ],
         'settings' => [
             'path' => 'core/base/settings/',
@@ -18,7 +22,7 @@ class Settings
         'plugins' => [
             'path' => 'core/plugins/',
             'hrUrl' => false,
-            'dir'=>false
+            'dir' => false
         ],
         'user' => [
             'path' => 'core/user/controller/',
