@@ -1,0 +1,1 @@
+<h1 style="color: coral"><?= $this->name?></h1>
