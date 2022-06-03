@@ -2,9 +2,12 @@
 
 namespace core\base\settings;
 
+use core\base\controller\Singleton;
+
 class Settings
 {
-    static private $_instance;
+
+    use Singleton;
 
     //массив маршрутов
     private $routes = [
@@ -12,7 +15,7 @@ class Settings
             'alias' => 'admin',
             'path' => 'core/admin/controller/',
             'hrUrl' => false,
-            'routes'=> [
+            'routes' => [
 
             ]
         ],
@@ -28,7 +31,7 @@ class Settings
             'path' => 'core/user/controller/',
             'hrUrl' => true,
             'routes' => [
-
+                'site' => 'index/hello'
             ]
         ],
         'default' => [
@@ -43,26 +46,10 @@ class Settings
         'textarea' => ['content', 'keywords']
     ];
 
-    private function __construct()
-    {
-    }
-
-    private function __clone()
-    {
-    }
-
     static public function get($property)
     {
-        return self::getInstance()->$property;
+        return self::instance()->$property;
 
-    }
-
-    static public function getInstance()
-    {
-        if (self::$_instance instanceof self) {
-            return self::$_instance;
-        }
-        return self::$_instance = new self();
     }
 
     public function clueProperties($class)

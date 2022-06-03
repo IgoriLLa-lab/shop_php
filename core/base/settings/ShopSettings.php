@@ -2,19 +2,20 @@
 
 namespace core\base\settings;
 
+use core\base\controller\Singleton;
 use core\base\settings\Settings;
 
 class ShopSettings
 {
 
-    //singleton pattern
-    static private $_instance;
+    use Singleton;
+
     private $baseSettings;
 
     private $routes = [
         'plugins' => [
             'dir' => false,
-                'routes' => [
+            'routes' => [
 
             ]
         ],
@@ -31,14 +32,14 @@ class ShopSettings
 
     }
 
-    //singleton pattern
-    static public function getInstance()
+    //singleton pattern in Trait Singleton
+    static private function getInstance()
     {
         if (self::$_instance instanceof self) {
             return self::$_instance;
         }
-        self::$_instance = new self();
-        self::$_instance->baseSettings = Settings::getInstance();
+
+        self::instance()->baseSettings = Settings::instance();
         $baseProperties = self::$_instance->baseSettings->clueProperties(get_class());
         self::$_instance->setProperties($baseProperties);
 
@@ -54,13 +55,4 @@ class ShopSettings
         }
     }
 
-    //singleton pattern
-    private function __construct()
-    {
-    }
-
-    //singleton pattern
-    private function __clone()
-    {
-    }
 }

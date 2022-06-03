@@ -4,32 +4,13 @@ namespace core\base\controller;
 
 use core\base\exceptions\RouteException;
 use core\base\settings\Settings;
-use core\base\settings\ShopSettings;
 
 //через этот класс идет вся система маршрутов (точка входа системы контроллеров)
-class RouteController
+class RouteController extends BaseController
 {
-    static private $_instance; //
+    use Singleton;
 
     protected $routes; // св-во маршрутов из settings
-
-    protected $controller; //
-    protected $inputMethod; // св-во в тором будет храниться метод собирающий данные из БД
-    protected $outputMethod; // в нем будет храниться метод который будет отвечать за подключение видов
-    protected $parameters; // параметр
-
-    private function __clone()
-    {
-    }
-
-    //singleton pattern
-    static public function getInstance(): RouteController
-    {
-        if (self::$_instance instanceof self) {
-            return self::$_instance;
-        }
-        return self::$_instance = new self();
-    }
 
     private function __construct()
     {
@@ -45,7 +26,7 @@ class RouteController
         if ($path === PATH) {
             $this->routes = Settings::get('routes');
 
-            if (!$this->routes) throw new RouteException('Сайт находится на техническом обслуживании');
+            if (!$this->routes) throw new RouteException('Отсутствуют маршруты в Базовых настройках', 1);
 
             $url = explode('/', substr($address_str, strlen(PATH)));
 
@@ -115,11 +96,7 @@ class RouteController
             }
 
         } else {
-            try {
-                throw new \Exception('Не корректная директория сайта');
-            } catch (\Exception $e) {
-                exit($e->getMessage());
-            }
+            throw new RouteException('Не корректная директория сайта', 1);
         }
     }
 
