@@ -9,6 +9,6 @@ const PATH = '/';
 
 const HOST = 'localhost';
 const USER = 'root';
-const PASS = '';
+const PASS = 'root';
 const DB_NAME = 'im';
 

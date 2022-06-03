@@ -1,2 +1,6 @@
 
 
+Fault: 03-06-2022 10:18:13 - Method core\admin\controller\IndexController::request() does not exist
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 47
+

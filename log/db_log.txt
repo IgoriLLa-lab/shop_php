@@ -1,0 +1,24 @@
+Fault: 03-06-2022 12:19:41 - Ошибка подключения к БД: 1049 Unknown database 'imd'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 19
+
+Fault: 03-06-2022 12:19:44 - Ошибка подключения к БД: 1049 Unknown database 'imd'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 19
+
+Fault: 03-06-2022 12:19:46 - Ошибка подключения к БД: 1049 Unknown database 'imd'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 19
+
+Fault: 03-06-2022 12:44:54 - Ошибка в SQL Запросе: SELECT FROM * articles - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM * articles' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
+Fault: 03-06-2022 12:45:02 - Ошибка в SQL Запросе: SELECT FROM * articles - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM * articles' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
+Fault: 03-06-2022 12:45:17 - Ошибка в SQL Запросе: SELECT FROM * articles - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM * articles' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
