@@ -6,7 +6,7 @@ use core\base\controller\Singleton;
 use core\base\exceptions\DbException;
 use function Sodium\library_version_major;
 
-class BaseModel
+class BaseModel extends BaseModelMethods
 {
     use Singleton;
 
@@ -22,6 +22,14 @@ class BaseModel
         $this->db->query("SET NAMES UTF8");
     }
 
+
+    /**
+     * @param $query
+     * @param $crud = r - SELECT / c -INSERT / u - UPDATE / d - DELETE
+     * @param $return_id
+     * @return array|bool
+     * @throws DbException
+     */
     final public function query($query, $crud = 'r', $return_id = false)
     {
         $result = $this->db->query($query);
@@ -59,5 +67,122 @@ class BaseModel
         }
 
     }
+
+    /**
+     * @param $table - Таблицы БД
+     * @param $set
+     * 'fields' => ['id', 'name'],
+     * 'where' => ['fio'=>'smirnova','name' => 'Masha', 'surname'=> 'Srgeevna'],
+     * 'operand'=> ['=', '<>'],
+     * 'condition'=>['AND'],
+     * 'order'=>['fio', 'name'],
+     * 'order_direction' =>  ['ASC','DESC'],
+     * 'limit' => '1'
+     * @return void
+     */
+    final public function get($table, $set = [])
+    {
+        $fields = $this->createFields($set, $table);
+
+        $order = $this->createOrder($set, $table);
+
+        $where = $this->createWhere($set, $table);
+
+        if (!$where) $new_where = true;
+        else $new_where = false;
+        $join_arr = $this->createJoin($set, $table, $new_where);
+
+        $fields .= $join_arr['fields'];
+        $join = $join_arr['join'];
+        $where .= $join_arr['where'];
+
+        $fields = rtrim($fields, ',');
+
+        $limit = $set['limit'] ? 'LIMIT ' . $set['limit'] : '';
+
+        $query = "SELECT $fields FROM $table $join $where $order $limit";
+        exit($query);
+        return $this->query($query);
+
+    }
+
+    //вставка данных
+    final public function add($table, $set = [])
+    {
+        $set['fields'] = (is_array($set['fields']) && !empty($set['fields'])) ? $set['fields'] : $_POST;
+        $set['files'] = (is_array($set['files']) && !empty($set['files'])) ? $set['files'] : false;
+
+        if (!$set['fields'] && !set['files']) return false;
+
+        $set['return_id'] = $set['return_id'] ? true : false;
+        $set['except'] = (is_array($set['except']) && !empty($set['except'])) ? $set['except'] : false;
+
+        $insert_arr = $this->createInsert($set['fields'], $set['files'], $set['except']);
+
+        if ($insert_arr) {
+            $query = "INSERT INTO $table ({$insert_arr['fields']}) VALUES ({$insert_arr['values']})";
+            return $this->query($query, 'c', $set['return_id']);
+        }
+        return false;
+
+    }
+
+    public function edit($table, $set = [])
+    {
+        $set['fields'] = (is_array($set['fields']) && !empty($set['fields'])) ? $set['fields'] : $_POST;
+        $set['files'] = (is_array($set['files']) && !empty($set['files'])) ? $set['files'] : false;
+
+        if (!$set['fields'] && !set['files']) return false;
+
+        $set['except'] = (is_array($set['except']) && !empty($set['except'])) ? $set['except'] : false;
+
+        if (!$set['all_rows']) {
+
+            if (set['where']) {
+                $where = $this->createWhere($set);
+            } else {
+
+                $columns = $this->showColumns($table);
+
+                if (!$columns) return false;
+
+                if ($columns['id_row'] && $set['fields'][$columns['id_row']]) {
+                    $where = 'WHERE ' . $columns['id_row'] . '=' . $set['fields'][$columns['id_row']];
+                    unset($set['fields'][$columns['id_row']]);
+                }
+            }
+
+        }
+
+        $update = $this->createUpdate($set['fields'], $set['files'], $set['except']);
+
+        $query = "UPDATE $table SET $update $where";
+
+
+        return $this->query($query, 'u');
+    }
+
+    /**
+     * @throws DbException
+     */
+    final public function showColumns($table)
+    {
+        $query = "SHOW COLUMNS FROM $table";
+
+        $res = $this->query($query);
+
+        $columns = [];
+
+        if ($res) {
+
+            foreach ($res as $row) {
+                $columns[$row['Field']] = $row;
+                if ($row['Key'] === 'PRI') $columns['id_row'] = $row['Field'];
+            }
+        }
+
+        return $columns;
+    }
+
 
 }

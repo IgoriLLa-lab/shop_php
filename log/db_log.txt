@@ -22,3 +22,35 @@ Fault: 03-06-2022 12:45:17 - Ошибка в SQL Запросе: SELECT FROM * a
 file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
 In Line 30
 
+Fault: 07-06-2022 12:37:25 - Ошибка в SQL Запросе: SELECT articles.id,articles.name FROM articles  WHERE articles.name IN ('masha') AND articles.content<>(SELECT name from articles WHERE id = 1)  ORDER BY 1 ASC,articles.name DESC 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
+Fault: 07-06-2022 12:47:22 - Ошибка в SQL Запросе: SELECT articles.id,articles.O'RAily  FROM articles  WHERE articles.name='masha'  ORDER BY articles.name DESC LIMIT 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'masha'  ORDER BY articles.name DESC LIMIT 1' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
+Fault: 07-06-2022 12:53:46 - Ошибка в SQL Запросе: SELECT articles.id,articles.O'RAily  FROM articles  WHERE articles.name='masha'  ORDER BY articles.name DESC LIMIT 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'masha'  ORDER BY articles.name DESC LIMIT 1' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
+Fault: 07-06-2022 12:54:00 - Ошибка в SQL Запросе: SELECT articles.id,articles.O'RAily  FROM articles  WHERE articles.name='masha'  ORDER BY articles.name DESC LIMIT 1 - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'masha'  ORDER BY articles.name DESC LIMIT 1' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 30
+
+Fault: 07-06-2022 15:42:32 - Ошибка в SQL Запросе: INSERT INTO articles (name,content,gallery_img,img,) VALUES ('Olga','Hello','[\"red\'\' .jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','[\"red\'\' .jpg\",\"blue.jpg\",\"black.jpg\"]','main_i' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 15:43:37 - Ошибка в SQL Запросе: INSERT INTO articles (name,content,price,gallery_img,img,) VALUES ('Olga','Hello','30','[\"red\'\' .jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','30','[\"red\'\' .jpg\",\"blue.jpg\",\"black.jpg\"]','m' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 15:43:59 - Ошибка в SQL Запросе: INSERT INTO articles (name,content,price,img,gallery_img,) VALUES ('Olga','Hello','30','main_img.jpg','[\"red\'\' .jpg\",\"blue.jpg\",\"black.jpg\"]',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','30','main_img.jpg','[\"red\'\' .jpg\",\"blue.jpg\",\"b' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 15:45:56 - Ошибка в SQL Запросе: INSERT INTO articles (name,content,price,img,gallery_img) VALUES ('Olga','Hello','30','main_img.jpg','[\"red\'\' .jpg\",\"blue.jpg\",\"black.jpg\"]') - 1406 Data too long for column 'img' at row 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
