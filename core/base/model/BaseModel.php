@@ -2,17 +2,17 @@
 
 namespace core\base\model;
 
-use core\base\controller\Singleton;
 use core\base\exceptions\DbException;
-use function Sodium\library_version_major;
 
-class BaseModel extends BaseModelMethods
+abstract class BaseModel extends BaseModelMethods
 {
-    use Singleton;
 
     protected $db;
 
-    private function __construct()
+    /**
+     * @throws DbException
+     */
+    protected function connect()
     {
         $this->db = @new \mysqli(HOST, USER, PASS, DB_NAME);
 
@@ -102,6 +102,7 @@ class BaseModel extends BaseModelMethods
 
         $query = "SELECT $fields FROM $table $join $where $order $limit";
         exit($query);
+
         return $this->query($query);
 
     }
@@ -127,18 +128,21 @@ class BaseModel extends BaseModelMethods
 
     }
 
+    /**
+     * @throws DbException
+     */
     public function edit($table, $set = [])
     {
         $set['fields'] = (is_array($set['fields']) && !empty($set['fields'])) ? $set['fields'] : $_POST;
         $set['files'] = (is_array($set['files']) && !empty($set['files'])) ? $set['files'] : false;
 
-        if (!$set['fields'] && !set['files']) return false;
+        if (!$set['fields'] && !$set['files']) return false;
 
         $set['except'] = (is_array($set['except']) && !empty($set['except'])) ? $set['except'] : false;
 
         if (!$set['all_rows']) {
 
-            if (set['where']) {
+            if ($set['where']) {
                 $where = $this->createWhere($set);
             } else {
 
@@ -158,6 +162,46 @@ class BaseModel extends BaseModelMethods
 
         $query = "UPDATE $table SET $update $where";
 
+        return $this->query($query, 'u');
+    }
+
+    /**
+     * @throws DbException
+     */
+    public function delete($table, $set)
+    {
+        $table = trim($table);
+
+        $where = $this->createWhere($set, $table);
+
+        $columns = $this->showColumns($table);
+
+        if (!$columns) return false;
+
+        if (is_array($set['fields']) && !empty($set['fields'])) {
+
+            if ($columns['id_row']) {
+                $key = array_search($columns['id_row'], $set['fields']);
+                if ($key !== false) unset($set['fields'][$key]);
+            }
+
+            $fields = [];
+
+            foreach ($set['fields'] as $field) {
+                $fields[$field] = $columns[$field]['Default'];
+            }
+
+            $update = $this->createUpdate($fields, false, false);
+
+            $query = "UPDATE $table SET $update $where";
+
+        } else {
+            $join_arr = $this->createJoin($set, $table, false);
+            $join = $join_arr['join'];
+            $join_tables = $join_arr['tables'];
+
+            $query = 'DELETE ' . $table . $join_tables . ' FROM ' . $table . ' ' . $join . ' ' . $where;
+        }
 
         return $this->query($query, 'u');
     }
@@ -167,8 +211,7 @@ class BaseModel extends BaseModelMethods
      */
     final public function showColumns($table)
     {
-        $query = "SHOW COLUMNS FROM $table";
-
+        $query = "SHOW COLUMNS FROM  $table";
         $res = $this->query($query);
 
         $columns = [];

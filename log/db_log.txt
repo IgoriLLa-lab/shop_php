@@ -54,3 +54,191 @@ Fault: 07-06-2022 15:45:56 - Ошибка в SQL Запросе: INSERT INTO art
 file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
 In Line 38
 
+Fault: 07-06-2022 17:25:29 - Ошибка в SQL Запросе: UPDATE articles SET   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:27:40 - Ошибка в SQL Запросе: UPDATE articles SET   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:37:58 - Ошибка в SQL Запросе: UPDATE articles SET id='2',name='Svata'  - 1062 Duplicate entry '2' for key 'articles.PRIMARY'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:38:53 - Ошибка в SQL Запросе: UPDATE articles SET id='2',name='Sveta'  - 1062 Duplicate entry '2' for key 'articles.PRIMARY'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:40:36 - Ошибка в SQL Запросе: UPDATE articles SET id='2',name='Sveta'  - 1062 Duplicate entry '2' for key 'articles.PRIMARY'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:44:45 - Ошибка в SQL Запросе: UPDATE articles SET id='3',name='Oksi',content='<p>New book</p>'  - 1062 Duplicate entry '3' for key 'articles.PRIMARY'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:45:59 - Ошибка в SQL Запросе: UPDATE articles SET id='3',name='Oksi',content='<p>New book</p>',price='99'  - 1062 Duplicate entry '3' for key 'articles.PRIMARY'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 07-06-2022 17:46:31 - Ошибка в SQL Запросе: UPDATE articles SET id='3',name='Oksi',content='<p>New book</p>',price='99'  - 1062 Duplicate entry '3' for key 'articles.PRIMARY'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 08-06-2022 7:44:30 - Ошибка в SQL Запросе: UPDATE articles SET name=,img= WHERE articles.id='1'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',img= WHERE articles.id='1'' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 08-06-2022 7:46:20 - Ошибка в SQL Запросе: UPDATE articles SET name=NULL,img=NULL WHERE articles.id='1'  - 1048 Column 'name' cannot be null
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 08-06-2022 7:47:04 - Ошибка в SQL Запросе: UPDATE articles SET name=NULL,img=NULL WHERE articles.id='1'  - 1048 Column 'name' cannot be null
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 08-06-2022 7:48:03 - Ошибка в SQL Запросе: UPDATE articles SET name=NULL,img=NULL WHERE articles.name='Sveta'  - 1048 Column 'name' cannot be null
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 08-06-2022 10:16:10 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:19:00 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:19:13 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:20:52 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:22:21 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:25:52 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:25:58 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:26:35 - Ошибка подключения к БД: 1049 Unknown database 'im'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 23
+
+Fault: 08-06-2022 10:27:28 - Ошибка подключения к БД: 1049 Unknown database 'im'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 23
+
+Fault: 08-06-2022 10:36:45 - Ошибка подключения к БД: 1049 Unknown database 'im'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 23
+
+Fault: 08-06-2022 10:51:10 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 10:53:12 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:20:33 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:21:02 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:22:09 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:23:09 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:23:23 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:24:11 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:39:29 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:42:50 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:45:24 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:46:51 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:50:58 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:51:21 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:53:49 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 12:59:41 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:00:19 - Ошибка в SQL Запросе: SHOW COLUMNS FROM - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:03:08 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:04:01 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:06:43 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:07:32 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:07:52 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:09:04 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:10:13 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+
+Fault: 08-06-2022 13:11:31 - Ошибка в SQL Запросе: SHOW COLUMNS FROM   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 41
+

@@ -26,6 +26,8 @@ class ShopSettings
         'textarea' => ['goods_content']
     ];
 
+    private $expansion = 'core/plugin/expansion/';
+
     static public function get($property)
     {
         return self::getInstance()->$property;

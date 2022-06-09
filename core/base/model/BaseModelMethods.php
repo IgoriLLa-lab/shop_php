@@ -4,6 +4,8 @@ namespace core\base\model;
 
 abstract class BaseModelMethods
 {
+    protected $sqlFunc = ['NOW()'];
+
     protected function createFields($set, $table = false): string
     {
         $set['fields'] = (is_array($set['fields']) && !empty($set['fields'])) ? $set['fields'] : ['*'];
@@ -141,6 +143,7 @@ abstract class BaseModelMethods
         $fields = '';
         $join = '';
         $where = '';
+        $tables = '';
 
         if ($set['join']) {
             $join_table = $table;
@@ -181,6 +184,8 @@ abstract class BaseModelMethods
 
                     $join_table = $key;
 
+                    $tables .= ', ' . trim($join_table);
+
                     if ($new_where) {
                         if ($item['where']) {
                             $new_where = false;
@@ -196,7 +201,7 @@ abstract class BaseModelMethods
                 }
             }
         }
-        return compact('fields', 'join', 'where');
+        return compact('fields', 'join', 'where', 'tables');
     }
 
     protected function createInsert($fields, $files, $except)
@@ -205,14 +210,12 @@ abstract class BaseModelMethods
 
         if ($fields) {
 
-            $sql_func = ['NOW()'];
-
             foreach ($fields as $row => $value) {
                 if ($except && in_array($row, $except)) continue;
 
                 $insert_arr['fields'] .= $row . ',';
 
-                if (in_array($value, $sql_func)) {
+                if (in_array($value, $this->sqlFunc)) {
                     $insert_arr['values'] .= $value . ',';
                 } else {
                     $insert_arr['values'] .= "'" . addslashes($value) . "',";
@@ -234,6 +237,43 @@ abstract class BaseModelMethods
         foreach ($insert_arr as $key => $arr) $insert_arr[$key] = rtrim($arr, ',');
 
         return $insert_arr;
+    }
+
+    protected function createUpdate($fields, $files, $except)
+    {
+
+        $update = '';
+
+        if ($fields) {
+            foreach ($fields as $row => $value) {
+
+                if ($except && in_array($row, $except)) continue;
+
+                $update .= $row . '=';
+
+                if (in_array($value, $this->sqlFunc)) {
+                    $update .= $value . ',';
+                } elseif ($value === NULL) {
+                    $update .= "NULL" . ',';
+                } else {
+                    $update .= "'" . addslashes($value) . "',";
+                }
+
+            }
+        }
+
+        if ($files) {
+            foreach ($files as $row => $file) {
+
+                $update .= $row . '=';
+
+                if (is_array($file)) $update .= "'" . addslashes(json_encode($file)) . "',";
+                else $update .= "'" . addslashes($file) . "',";
+            }
+        }
+
+        return rtrim($update, ',');
+
     }
 
 }
