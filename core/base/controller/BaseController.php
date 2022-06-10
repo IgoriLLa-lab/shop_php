@@ -10,7 +10,12 @@ abstract class BaseController
 {
 
     use \core\base\controller\BaseMethods;
+
+    protected $header;
+    protected $content;
+    protected $footer;
     protected $page;
+
     protected $errors;
 
     protected $controller; //
@@ -18,14 +23,10 @@ abstract class BaseController
     protected $outputMethod; // в нем будет храниться метод который будет отвечать за подключение видов
     protected $parameters; // параметр
 
+    protected $template;
     protected $styles;
-    protected $scrypts;
+    protected $scripts;
 
-
-    /**
-     *
-     * @throws RouteException
-     */
     public function route()
     {
 
@@ -60,6 +61,7 @@ abstract class BaseController
         if (method_exists($this, $outputData)) {
             $page = $this->$outputData($data);
             if ($page) $this->page = $page;
+
         } else if ($data) {
             $this->page = $data;
         }
@@ -104,28 +106,28 @@ abstract class BaseController
         } else {
             echo $this->page;
         }
-        exit();
+        exit;
     }
 
-    /**
-     * @return void
-     * Инициализирует стили и скрипты ADMIN_CSS_JS и USER_CSS_JS
-     */
     protected function init($admin = false)
     {
         if (!$admin) {
             if (USER_CSS_JS['styles']) {
                 foreach (USER_CSS_JS['styles'] as $item) $this->styles[] = PATH . TEMPLATES . trim($item, '/');
             }
+
             if (USER_CSS_JS['scripts']) {
-                foreach (USER_CSS_JS['scripts'] as $item) $this->scrypts[] = PATH . TEMPLATES . trim($item, '/');
+                foreach (USER_CSS_JS['scripts'] as $item) $this->scripts[] = PATH . TEMPLATES . trim($item, '/');
             }
+
         } else {
+
             if (ADMIN_CSS_JS['styles']) {
-                foreach (USER_CSS_JS['styles'] as $item) $this->styles[] = PATH . ADMIN_TEMPLATE . trim($item, '/');
+                foreach (ADMIN_CSS_JS['styles'] as $item) $this->styles[] = PATH . ADMIN_TEMPLATE . trim($item, '/');
             }
+
             if (ADMIN_CSS_JS['scripts']) {
-                foreach (USER_CSS_JS['scripts'] as $item) $this->scrypts[] = PATH . ADMIN_TEMPLATE . trim($item, '/');
+                foreach (ADMIN_CSS_JS['scripts'] as $item) $this->scripts[] = PATH . ADMIN_TEMPLATE . trim($item, '/');
             }
         }
     }

@@ -31,7 +31,7 @@ class Settings
             'path' => 'core/user/controller/',
             'hrUrl' => true,
             'routes' => [
-                'site' => 'index/hello'
+
             ]
         ],
         'default' => [
@@ -41,14 +41,14 @@ class Settings
         ]
     ];
 
-    private $defaultTable = 'articles';
+    private $defaultTable = 'teachers';
 
     private $templateArr = [
         'text' => ['name', 'phone', 'address'],
         'textarea' => ['content', 'keywords']
     ];
 
-    private $expansion = 'core/admin/expansion/';
+//    private $expansion = 'core/admin/expansion/';
 
     static public function get($property)
     {

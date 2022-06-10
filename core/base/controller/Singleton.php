@@ -2,6 +2,8 @@
 
 namespace core\base\controller;
 
+use core\base\exceptions\DbException;
+
 trait Singleton
 {
 
@@ -15,16 +17,18 @@ trait Singleton
     {
     }
 
+    /**
+     * @throws DbException
+     */
     static public function instance()
     {
         if (self::$_instance instanceof self) {
             return self::$_instance;
         }
-        self::$_instance = new self();
 
-        if (method_exists(self::$_instance, 'connect')) {
-            self::$_instance->connect();
-        }
+        self::$_instance = new self;
+
+        if (method_exists(self::$_instance, 'connect')) self::$_instance->connect();
 
         return self::$_instance;
     }
