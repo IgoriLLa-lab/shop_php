@@ -25,12 +25,12 @@ abstract class BaseModel extends BaseModelMethods
 
     /**
      * @param $query
-     * @param $crud = r - SELECT / c -INSERT / u - UPDATE / d - DELETE
-     * @param $return_id
+     * @param string $crud = r - SELECT / c -INSERT / u - UPDATE / d - DELETE
+     * @param bool $return_id
      * @return array|bool
      * @throws DbException
      */
-    final public function query($query, $crud = 'r', $return_id = false)
+    final public function query($query, string $crud = 'r', bool $return_id = false)
     {
         $result = $this->db->query($query);
 
@@ -70,7 +70,7 @@ abstract class BaseModel extends BaseModelMethods
 
     /**
      * @param $table - Таблицы БД
-     * @param $set
+     * @param array $set
      * 'fields' => ['id', 'name'],
      * 'where' => ['fio'=>'smirnova','name' => 'Masha', 'surname'=> 'Srgeevna'],
      * 'operand'=> ['=', '<>'],
@@ -78,15 +78,15 @@ abstract class BaseModel extends BaseModelMethods
      * 'order'=>['fio', 'name'],
      * 'order_direction' =>  ['ASC','DESC'],
      * 'limit' => '1'
-     * @return void
+     * @return array|bool|void
      */
-    final public function get($table, $set = [])
+    final public function get($table, array $set = [])
     {
         $fields = $this->createFields($set, $table);
 
-        $order = $this->createOrder($set, $table);
-
         $where = $this->createWhere($set, $table);
+
+        $order = $this->createOrder($set, $table);
 
         if (!$where) $new_where = true;
         else $new_where = false;
@@ -101,7 +101,10 @@ abstract class BaseModel extends BaseModelMethods
         $limit = $set['limit'] ? 'LIMIT ' . $set['limit'] : '';
 
         $query = "SELECT $fields FROM $table $join $where $order $limit";
-        exit($query);
+
+//        if(!empty($set['return_query'])){
+//            return $query;
+//        }
 
         return $this->query($query);
 
