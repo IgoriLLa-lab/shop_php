@@ -20,12 +20,12 @@ trait BaseMethods
         return $num * 1;
     }
 
-    protected function isPost()
+    protected function isPost(): bool
     {
         return $_SERVER['REQUEST_METHOD'] == 'POST';
     }
 
-    protected function isAjax()
+    protected function isAjax(): bool
     {
         return isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest';
     }

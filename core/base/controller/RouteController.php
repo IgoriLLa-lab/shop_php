@@ -12,9 +12,17 @@ class RouteController extends BaseController
 
     protected $routes; // св-во маршрутов из settings
 
+    /**
+     * @throws RouteException
+     */
     private function __construct()
     {
         $address_str = $_SERVER['REQUEST_URI']; //1. получаем адресную строку из глобального массива Сервер
+
+        if ($_SERVER['QUERY_STRING']) {
+            $address_str = substr($address_str, 0, strrpos($address_str, $_SERVER['QUERY_STRING']) - 1);
+        }
+
 
         $path = substr($_SERVER['PHP_SELF'], 0, strrpos($_SERVER['PHP_SELF'], 'index.php'));
 

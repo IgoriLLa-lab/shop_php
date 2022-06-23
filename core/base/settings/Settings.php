@@ -3,6 +3,7 @@
 namespace core\base\settings;
 
 use core\base\controller\Singleton;
+use core\base\exceptions\DbException;
 
 class Settings
 {
@@ -10,7 +11,7 @@ class Settings
     use Singleton;
 
     //массив маршрутов
-    private $routes = [
+    private array $routes = [
         'admin' => [
             'alias' => 'admin',
             'path' => 'core/admin/controller/',
@@ -41,22 +42,68 @@ class Settings
         ]
     ];
 
-    private $defaultTable = 'teachers';
+    private string $expansion = 'core/admin/expansion/';
 
-    private $templateArr = [
-        'text' => ['name', 'phone', 'address'],
-        'textarea' => ['content', 'keywords']
+    private string $messages = 'core/base/messages/';
+
+    private string $defaultTable = 'teachers';
+
+    private string $formTemplates = PATH . 'core/admin/view/include/form_templates/';
+
+    private array $projectTables = [
+        'teachers' => ['name' => 'Учителя', 'img' => 'pages.img'],
+        'students' => ['name' => 'Ученики'],
+        'articles' => ['name' => 'Статьи']
     ];
 
-    private $expansion = 'core/admin/expansion/';
+    private array $templateArr = [
+        'text' => ['name'],
+        'textarea' => ['keywords', 'content'],
+        'radio' => ['visible'],
+        'select' => ['menu_position', 'parent_id'],
+        'img' => ['img'],
+        'gallery_img' => ['gallery_img']
+    ];
 
+    private array $translate = [
+        'name' => ['Название', 'Не более 100 символов'],
+        'content' => []
+    ];
+
+    private array $radio = [
+        'visible' => ['Нет', 'Да', 'default' => 'Да']
+    ];
+
+    private array $rootItems = [
+        'name' => 'Корневая',
+        'tables' => ['articles']
+    ];
+
+    private array $blockNeedle = [
+        'vg-rows' => [],
+        'vg-img' => ['img'],
+        'vg-content' => ['content']
+    ];
+
+    private array $validation = [
+        'name' => ['empty' => true, 'trim' => true],
+        'price' => ['int' => true],
+        'login' => ['empty' => true, 'trim' => true],
+        'password' => ['crypt' => true, 'empty' => true],
+        'keywords' => ['count' => 4, 'trim' => true],
+        'description' => ['count' => 160, 'trim' => true]
+
+    ];
+
+    /**
+     * @throws DbException
+     */
     static public function get($property)
     {
         return self::instance()->$property;
-
     }
 
-    public function clueProperties($class)
+    public function clueProperties($class): array
     {
         $baseProperties = [];
 

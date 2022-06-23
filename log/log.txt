@@ -1,0 +1,2988 @@
+Fault: 12-06-2022 18:08:17 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:17 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:17 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:17 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:18 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:18 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:31 - Неверное имя файла для подключения - core/plugins/shop/ShowController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:31 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:31 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:31 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:35 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:43 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:43 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:43 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:44 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:44 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 18:08:44 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:02:36 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:02:36 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:02:37 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:02:37 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:02:37 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:02:37 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:03:01 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:03:01 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:03:01 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:03:01 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:03:01 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:03:01 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:08:30 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:08:30 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:08:30 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:08:31 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:08:31 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:09:31 - Неверное имя файла для подключения - core/user/controller/TemplateController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:09:31 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:10:32 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:15:39 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 12-06-2022 19:15:47 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:23:10 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:24:18 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:38:38 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:38:38 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:41:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:41:15 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:42:10 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:42:10 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:42:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:42:40 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:43:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:43:53 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:45:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:45:09 - Неверное имя файла для подключения - core/user/controller/ImagesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:57:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:59:39 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:59:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:59:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:59:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:59:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 9:59:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:00:32 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:00:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:00:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:00:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:00:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:00:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:13 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:23 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:23 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:23 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:23 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:23 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:28 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:32 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:33 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:50 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:01:52 - Неверное имя файла для подключения - core/admin/controller/AddController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:02:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:02:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:02:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:02:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:02:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 13-06-2022 10:02:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:19 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:26 - Неверное имя файла для подключения - core/admin/controller/AddController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:54 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:16:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:16:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:16:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:16:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:16:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:16:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:56 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:17:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:18:38 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:18:38 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:18:38 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:18:38 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:18:38 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:18:38 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:21:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:21:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:21:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:21:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:21:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:21:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:22:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:22:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:22:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:22:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:22:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:22:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:40 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:56 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:56 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:24:57 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:05 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:05 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:05 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:05 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:05 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:05 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:25:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 13:31:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:29:21 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:29:51 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:30:18 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:30:41 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:30:42 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:30:42 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:30:42 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:30:42 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:30:42 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 14-06-2022 15:30:45 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:32:16 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:58:20 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:58:38 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 15:59:07 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 14-06-2022 16:00:57 - Отсутствует шаблон - core/admin/view/add
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 99
+
+Fault: 15-06-2022 9:46:54 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 15-06-2022 9:46:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 15-06-2022 9:46:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 15-06-2022 9:46:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 15-06-2022 9:46:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 15-06-2022 9:46:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 18-06-2022 15:47:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 18-06-2022 15:47:58 - Class core\admin\controller\Show?page=1&order=rowController does not exist
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 50
+
+Fault: 19-06-2022 10:32:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:44:25 - Class core\admin\controller\Show?=Controller does not exist
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 50
+
+Fault: 19-06-2022 10:49:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:49:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:49:33 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:49:34 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:49:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:50:41 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:51:44 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 10:56:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 11:23:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 11:49:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 11:49:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 11:57:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 12:51:35 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:27:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:27:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:27:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:27:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:28:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:25 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:33:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:20 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:21 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:21 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:32 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:36 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:45 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:45 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:46 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:46 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:42:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:43:10 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:43:52 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:43:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:43:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:43:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:08 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:08 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:09 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:09 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:13 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:13 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:30 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:44:33 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:00 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:06 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:43 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:47 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:47 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:47 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:46:51 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:48:06 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:48:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:48:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:48:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:48:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:13 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:53 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:53 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:53 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:49:56 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:50:03 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:50:11 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:50:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:50:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:50:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:50:15 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:19 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:23 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:23 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:29 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:32 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:51:32 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:31 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:31 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:31 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:34 - Class core\admin\controller\Create%20sitemapController does not exist
+file C:\OpenServer\domains\im.my\public_html\core\base\controller\BaseController.php
+In Line 50
+
+Fault: 19-06-2022 16:54:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:54:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:00 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:00 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:00 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:00 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:06 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:07 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:10 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:10 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:10 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 16:59:10 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:06:01 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:06:01 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:06:01 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:06:01 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:08:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:08:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:08:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:08:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:08:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:30 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:34 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:38 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:43 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:43 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:43 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:43 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:43 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:43 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:09:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:39 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:44 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:52 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:10:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:45 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:45 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:45 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:45 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:45 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:45 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:46 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 19-06-2022 17:14:46 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:15:54 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:15:54 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:15:55 - Неверное имя файла для подключения - core/admin/controller/TeachersController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:14 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:26 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:16:57 - Неверное имя файла для подключения - core/admin/controller/EditController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 7:19:12 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:22:59 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:36 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:26:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:26 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:31:27 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:34:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:38:52 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:43:55 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:43:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:43:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:43:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:47:50 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:47:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:47:50 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:50:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:50:22 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:50:22 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:50:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:51:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 8:52:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:09:48 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:09:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:09:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:09:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:09:51 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:01 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:01 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:01 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:01 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:35 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:39 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 9:10:39 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:23:09 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:23:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:23:10 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:23:10 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:04 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:04 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:04 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:04 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:05 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:21 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:21 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:21 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:27:21 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:31:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:31:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:31:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:31:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:31:18 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:31:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:32:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:32:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:33:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:33:26 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:34:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:34:39 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:35:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:37:07 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:37:30 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:40:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:42:06 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:44:46 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 12:45:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:11:04 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:24:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:24:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:24:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:24:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:24:37 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:25:48 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:25:48 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:25:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:25:49 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:27:58 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:33:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:33:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:35:34 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:35:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:35:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:36:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:38:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:38:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:38:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:39:34 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:41:16 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:41:35 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:41:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:44:48 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:44:55 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:53:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:54:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:54:38 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:56:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 13:57:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 14:00:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 14:00:56 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 14:48:03 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 14:48:30 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 14:56:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 14:57:02 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 15:03:59 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 15:08:02 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 15:38:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 15:40:04 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 15:51:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 15:57:41 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 16:00:16 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 16:01:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 16:01:32 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 16:03:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:02:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:03:03 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:03:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:04:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:06:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:21:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:25:36 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:25:55 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:26:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:27:26 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:28:26 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:28:30 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:28:50 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:28:53 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:36:26 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:36:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:37:55 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:37:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:37:55 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:37:59 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:42:50 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:43:33 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:44:55 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:45:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:47:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:48:02 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:52:58 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:53:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:53:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:57:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 17:59:30 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:01:10 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:22:41 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:25:44 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:26:01 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:26:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:26:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:26:59 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:27:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:28:25 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:28:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:29:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:29:35 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:31:36 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:31:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:34:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:35:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:35:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:36:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:36:30 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:36:45 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:37:48 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 20-06-2022 18:39:04 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 7:53:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 7:54:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 7:54:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 7:54:24 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 7:54:35 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:18:10 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:19:42 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:30:46 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:30:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:31:01 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:31:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:31:09 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:31:09 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:31:15 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:40:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:42:23 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:43:11 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:45:28 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:54:22 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:54:36 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:54:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:54:36 - Неверное имя файла для подключения - core/user/controller/UserfilesController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:55:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:55:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:57:58 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:58:03 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 8:58:10 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 9:00:39 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 9:55:33 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:15:02 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:16:12 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:16:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:16:51 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:16:55 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:16:59 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:17:02 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:17:33 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:17:40 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:17:44 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:19:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:19:28 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:19:31 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:19:34 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:19:42 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:21:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 10:21:23 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 13:32:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 13:32:32 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 13:33:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 21-06-2022 13:39:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 12:58:58 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:47:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:47:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:47:54 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:48:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:49:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:49:18 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:49:39 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:50:47 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:51:01 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:51:08 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:51:27 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:52:07 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:52:52 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:52:57 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:53:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:53:14 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:53:23 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:54:16 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:54:23 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:54:29 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:54:43 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:55:24 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 14:57:07 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:02:28 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:02:37 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:02:45 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:03:20 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:04:54 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:08:05 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:11:34 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:13:09 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:15:42 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+
+Fault: 23-06-2022 15:17:17 - Неверное имя файла для подключения - core/user/controller/CoreController
+file C:\OpenServer\domains\im.my\public_html\core\base\settings\internal_settings.php
+In Line 39
+

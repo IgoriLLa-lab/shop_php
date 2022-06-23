@@ -11,3 +11,126 @@ Fault: 09-06-2022 16:25:33 - Ошибка в SQL Запросе: SHOW COLUMNS FR
 file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
 In Line 38
 
+Fault: 12-06-2022 18:08:27 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  advantages - 1146 Table 'im.advantages' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 12-06-2022 18:08:29 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  information - 1146 Table 'im.information' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 12-06-2022 18:08:31 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  users - 1146 Table 'im.users' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 14-06-2022 16:53:46 - Ошибка в SQL Запросе: SELECT * FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = im AND TABLE_NAME = articles
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 14-06-2022 16:55:01 - Ошибка в SQL Запросе: SELECT * FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 14-06-2022 16:56:27 - Ошибка в SQL Запросе: SELECT * FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1146 Table 'infomation_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 14-06-2022 16:59:39 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1146 Table 'infomation_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 15-06-2022 9:46:58 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1146 Table 'infomation_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 15-06-2022 9:47:11 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1146 Table 'infomation_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 15-06-2022 9:48:39 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1146 Table 'infomation_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 15-06-2022 9:50:08 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM infomation_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'students' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1146 Table 'infomation_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 15-06-2022 9:54:46 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM information_chema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1146 Table 'information_chema.key_column_usage' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 15-06-2022 9:55:14 - Ошибка в SQL Запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME   
+                  FROM information_schema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SHEMA = 'im' AND TABLE_NAME = 'articles' AND
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1054 Unknown column 'TABLE_SHEMA' in 'where clause'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 18-06-2022 15:46:19 - Ошибка в SQL Запросе: SELECT teachers.id as id,teachers.name,teachers.content,teachers.parent_id FROM teachers   ORDER BY teachers.parent_id ASC,teachers.menu_position ASC  - 1054 Unknown column 'teachers.content' in 'field list'
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 10:50:13 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  teachers?page - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?page' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 15:24:30 - Ошибка в SQL Запросе: INSERT INTO teachers (name,img,menu_position) VALUES ('Irina','2.jpg','1'),('Katya','4.jpg',NULL,NULL) - 1136 Column count doesn't match value count at row 2
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 15:27:46 - Ошибка в SQL Запросе: INSERT INTO teachers (name,menu_position) VALUES ('Irina11111111','1','') - 1136 Column count doesn't match value count at row 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 15:27:56 - Ошибка в SQL Запросе: INSERT INTO teachers (name,menu_position) VALUES ('Irina11111111','1','') - 1136 Column count doesn't match value count at row 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 16:42:40 - Ошибка в SQL Запросе: SELECT students. as id,students.name FROM students     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,students.name FROM students' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 16:43:13 - Ошибка в SQL Запросе: SELECT students. as id,students.name FROM students     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,students.name FROM students' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 16:46:05 - Ошибка в SQL Запросе: SELECT students. as id,students.name FROM students     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,students.name FROM students' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 16:46:28 - Ошибка в SQL Запросе: SELECT students. as id,students.name FROM students     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,students.name FROM students' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 19-06-2022 16:50:07 - Ошибка в SQL Запросе: SELECT students. as id,students.name FROM students     - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,students.name FROM students' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 20-06-2022 15:37:57 - Ошибка в SQL Запросе: SHOW COLUMNS FROM  teachers - 1146 Table 'im.teachers' doesn't exist
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+

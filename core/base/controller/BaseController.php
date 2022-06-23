@@ -18,7 +18,7 @@ abstract class BaseController
 
     protected $errors;
 
-    protected $controller; //
+    protected $controller;
     protected $inputMethod; // св-во в тором будет храниться метод собирающий данные из БД
     protected $outputMethod; // в нем будет храниться метод который будет отвечать за подключение видов
     protected $parameters; // параметр
@@ -26,6 +26,8 @@ abstract class BaseController
     protected $template;
     protected $styles;
     protected $scripts;
+
+    protected $userId;
 
     public function route()
     {
@@ -59,6 +61,7 @@ abstract class BaseController
         $data = $this->$inputData();
 
         if (method_exists($this, $outputData)) {
+
             $page = $this->$outputData($data);
             if ($page) $this->page = $page;
 

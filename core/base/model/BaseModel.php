@@ -102,10 +102,6 @@ abstract class BaseModel extends BaseModelMethods
 
         $query = "SELECT $fields FROM $table $join $where $order $limit";
 
-//        if(!empty($set['return_query'])){
-//            return $query;
-//        }
-
         return $this->query($query);
 
     }
@@ -123,11 +119,8 @@ abstract class BaseModel extends BaseModelMethods
 
         $insert_arr = $this->createInsert($set['fields'], $set['files'], $set['except']);
 
-        if ($insert_arr) {
-            $query = "INSERT INTO $table ({$insert_arr['fields']}) VALUES ({$insert_arr['values']})";
-            return $this->query($query, 'c', $set['return_id']);
-        }
-        return false;
+        $query = "INSERT INTO $table {$insert_arr['fields']} VALUES {$insert_arr['values']}";
+        return $this->query($query, 'c', $set['return_id']);
 
     }
 
