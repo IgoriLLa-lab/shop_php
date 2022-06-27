@@ -9,8 +9,8 @@ function print_arr($arr)
 
 if (!function_exists('mb_str_replace')) {
 
-    function mb_str_replace($needle, $tex_replace, $haystack)
+    function mb_str_replace($needle, $tex_replace, $haystack): string
     {
-        return implode($tex_replace, mb_split($needle, $haystack));;
+        return implode($tex_replace, explode($needle, $haystack));
     }
 }

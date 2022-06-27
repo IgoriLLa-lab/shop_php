@@ -67,6 +67,7 @@ class Settings
 
     private array $translate = [
         'name' => ['Название', 'Не более 100 символов'],
+        'keywords' => ['Ключевые слова', 'Не более 70 символов'],
         'content' => []
     ];
 
@@ -90,7 +91,7 @@ class Settings
         'price' => ['int' => true],
         'login' => ['empty' => true, 'trim' => true],
         'password' => ['crypt' => true, 'empty' => true],
-        'keywords' => ['count' => 4, 'trim' => true],
+        'keywords' => ['count' => 70, 'trim' => true],
         'description' => ['count' => 160, 'trim' => true]
 
     ];

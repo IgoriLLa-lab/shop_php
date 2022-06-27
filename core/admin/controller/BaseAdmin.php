@@ -7,6 +7,7 @@ use core\base\controller\BaseController;
 use core\base\exceptions\DbException;
 use core\base\exceptions\RouteException;
 use core\base\settings\Settings;
+use libraries\TextModify;
 
 //сборка страницы - подключение хедера и футера
 abstract class BaseAdmin extends BaseController
@@ -24,6 +25,10 @@ abstract class BaseAdmin extends BaseController
 
     protected $menu;
     protected $title;
+
+    protected $alias;
+    //Возможно это массив
+    protected $fileArray;
 
     protected $messages;
 
@@ -56,6 +61,9 @@ abstract class BaseAdmin extends BaseController
         $this->sendNoCacheHeaders();
     }
 
+    /**
+     * @throws RouteException
+     */
     protected function outputData()
     {
 
@@ -81,11 +89,17 @@ abstract class BaseAdmin extends BaseController
         header("Cache-Control: post-check=0,pre-check=0");
     }
 
+    /**
+     * @throws DbException
+     */
     protected function execBase()
     {
         self::inputData();
     }
 
+    /**
+     * @throws DbException
+     */
     protected function createTableData($settings = false)
     {
         if (!$this->table) {
@@ -143,6 +157,9 @@ abstract class BaseAdmin extends BaseController
         return false;
     }
 
+    /**
+     * @throws DbException
+     */
     protected function createOutputData($settings = false)
     {
         if (!$settings) $settings = Settings::instance();
@@ -180,12 +197,15 @@ abstract class BaseAdmin extends BaseController
             }
 
             if (!$insert) $this->blocks[$default][] = $name;
-            if (!$this->translate[$name]) $this->translate[$name][] = $name;
+            if (!isset($this->translate[$name])) $this->translate[$name][] = $name;
         }
 
         return;
     }
 
+    /**
+     * @throws DbException
+     */
     protected function createRadio($settings = false)
     {
         if (!$settings) $settings = Settings::instance();
@@ -194,7 +214,7 @@ abstract class BaseAdmin extends BaseController
 
         if ($radio) {
             foreach ($this->columns as $name => $item) {
-                if ($radio[$name]) {
+                if (isset($radio[$name])) {
                     $this->foreignData[$name] = $radio[$name];
                 }
             }
@@ -202,9 +222,13 @@ abstract class BaseAdmin extends BaseController
 
     }
 
+    /**
+     * @throws DbException
+     */
     protected function checkPost($settings = false)
     {
         if ($this->isPost()) {
+
             $this->clearPostFields($settings);
             $this->table = $this->clearStr($_POST['table']);
             unset($_POST['table']);
@@ -233,6 +257,7 @@ abstract class BaseAdmin extends BaseController
     {
 
         if (mb_strlen($str) > $counter) {
+
             $srt_res = mb_str_replace('$1', $answer, $this->messages['count']);
             $srt_res = mb_str_replace('$2', $counter, $srt_res);
 
@@ -242,8 +267,7 @@ abstract class BaseAdmin extends BaseController
 
     }
 
-    protected
-    function emptyFields($str, $answer, array $arr = [])
+    protected function emptyFields($str, $answer, array $arr = [])
     {
         if (empty($str)) {
             $_SESSION['res']['answer'] = '<div class="error">' . $this->messages['empty'] . ' ' . $answer . '</div>';
@@ -255,12 +279,12 @@ abstract class BaseAdmin extends BaseController
      * @throws DbException
      */
     protected
-    function clearPostFields($settings, array &$arr = [])
+    function clearPostFields($settings, array &$arr = []): bool
     {
         if (!$arr) $arr = &$_POST; //по ссылке
         if (!$settings) $settings = Settings::instance();
 
-        $id = $_POST[$this->columns['id_row']] ?: false;
+        $id = isset($_POST[isset($this->columns['id_row'])]) ?: false;
 
         $validate = $settings::get('validation');
         if (!$this->translate) $this->translate = $settings::get('translate');
@@ -275,14 +299,14 @@ abstract class BaseAdmin extends BaseController
 
                 if ($validate) {
 
-                    if ($validate[$key]) {
+                    if (isset($validate[$key])) {
                         if ($this->translate[$key]) {
                             $answer = $this->translate[$key][0];
                         } else {
                             $answer = $key;
                         }
 
-                        if ($validate[$key]['crypt']) {
+                        if (isset($validate[$key]['crypt'])) {
                             if ($id) {
                                 if (empty($item)) {
                                     unset($arr[$key]);
@@ -293,13 +317,13 @@ abstract class BaseAdmin extends BaseController
                             }
                         }
 
-                        if ($validate[$key]['empty']) $this->emptyFields($item, $answer, $arr);
+                        if (isset($validate[$key]['empty'])) $this->emptyFields($item, $answer, $arr);
 
-                        if ($validate[$key]['trim']) $arr[$key] = trim($item);
+                        if (isset($validate[$key]['trim'])) $arr[$key] = trim($item);
 
-                        if ($validate[$key]['int']) $arr[$key] = $this->clearNum($item);
+                        if (isset($validate[$key]['int'])) $arr[$key] = $this->clearNum($item);
 
-                        if ($validate[$key]['count']) $this->countChar($item, $validate[$key]['count'], $answer, $arr);
+                        if (isset($validate[$key]['count'])) $this->countChar($item, $validate[$key]['count'], $answer, $arr);
 
                     }
                 }
@@ -310,8 +334,180 @@ abstract class BaseAdmin extends BaseController
 
     }
 
-    protected function editData()
+    protected function editData($returnId = false)
     {
+        $id = false;
+        $method = 'add';
+
+        if (isset($_POST[$this->columns['id_row']])) {
+            $id = is_numeric($_POST[$this->columns['id_row']]) ?
+                $this->clearNum($_POST[$this->columns['id_row']]) :
+                $this->clearStr($_POST[$this->columns['id_row']]);
+            if ($id) {
+                $where = [$this->columns['id_row'] => $id];
+                $method = 'edit';
+            }
+        }
+
+        foreach ($this->columns as $key => $item) {
+            if ($key === 'id_row') continue;
+
+            if (isset($item['Type']) && $item['Type'] === 'date' || isset($item['Type']) && $item['Type'] === 'datetime') {
+                !isset($_POST[$key]) && $_POST[$key] = 'NOW()';
+            }
+        }
+
+        $this->createFile();
+
+        $this->createAlias($id);
+
+        $this->updateMenuPosition();
+
+        $except = $this->checkExceptFields();
+
+        $res_id = $this->model->$method($this->table, [
+            'files' => $this->fileArray,
+            'where' => $where,
+            'return_id' => true,
+            'except' => $except
+        ]);
+
+        if (!$id && $method === 'add') {
+            $_POST[$this->columns['id_row']] = $res_id;
+            $answerSuccess = $this->messages['addSuccess'];
+            $answerFail = $this->messages['addFail'];
+        } else {
+            $answerSuccess = $this->messages['editSuccess'];
+            $answerFail = $this->messages['editFail'];
+        }
+
+        $this->expansion(get_defined_vars());
+
+        $result = $this->checkAlias($_POST[$this->columns['id_row']]);
+
+        if ($res_id) {
+            $_SESSION['res']['answer'] = '<div class="success">' . $answerSuccess . '</div>';
+
+            if (!$returnId) $this->redirect();
+
+            return $_POST[$this->columns['id_row']];
+
+        } else {
+
+            $_SESSION['res']['answer'] = '<div class="error">' . $answerFail . '</div>';
+
+            if (!$returnId) $this->redirect();
+
+        }
+
+    }
+
+    protected function checkExceptFields(array $arr = []): array
+    {
+        if (!$arr) $arr = $_POST;
+
+        $except = [];
+
+        if ($arr) {
+
+            foreach ($arr as $key => $item) {
+                if (!$this->columns[$key]) $except[] = $key;
+            }
+        }
+
+        return $except;
+    }
+
+
+    protected function createFile()
+    {
+
+    }
+
+    protected function updateMenuPosition()
+    {
+
+    }
+
+    protected function createAlias($id = false)
+    {
+
+        if ($this->columns['alias']) {
+
+            if (!isset($_POST['alias'])) {
+
+                if ($_POST['name']) {
+                    $alias_str = $this->clearStr($_POST['name']);
+                } else {
+                    foreach ($_POST as $key => $item) {
+                        if (strpos($key, 'name') !== false && $item) {
+                            $alias_str = $this->clearStr($item);
+                            break;
+                        }
+                    }
+                }
+
+            } else {
+
+                $alias_str = $_POST['alias'] = $this->clearStr($_POST['alias']);
+
+            }
+
+            $textModify = new TextModify();
+            $alias = $textModify->translit($alias_str);
+
+            $where['alias'] = $alias;
+
+            $operand = '=';
+
+            if ($id) {
+                $where[$this->columns['id_row']] = $id;
+                $operand = '<>';
+            }
+
+            $res_alias = $this->model->get($this->table, [
+                'fields' => ['alias'],
+                'where' => $where,
+                'operand' => $operand,
+                'limit' => '1'
+            ])[0];
+
+            if (!$res_alias) {
+
+                $_POST['alias'] = $alias;
+
+            } else {
+
+                $this->alias = $alias;
+                $_POST['alias'] = '';
+
+            }
+
+            if ($_POST['alias'] && $id) {
+                method_exists($this, 'checkOldAlias') && $this->checkOldAlias($id);
+            }
+
+        }
+
+    }
+
+    protected function checkAlias($id)
+    {
+
+        if ($id) {
+            if($this->alias){
+                $this->alias .= '-' . $id;
+
+                $this->model->edit($this->table, [
+                    'fields' => ['alias' => $this->alias],
+                    'where' => [$this->columns['id_row'] => 'id']
+                ]);
+
+                return true;
+            }
+        }
+
+        return false;
 
     }
 

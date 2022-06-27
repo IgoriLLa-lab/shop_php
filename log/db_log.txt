@@ -134,3 +134,67 @@ Fault: 20-06-2022 15:37:57 - Ошибка в SQL Запросе: SHOW COLUMNS FR
 file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
 In Line 38
 
+Fault: 24-06-2022 10:21:06 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords>,content>,date,datetime) VALUES ('Новый учитель','1','2','2','Ключевые слова','Контент',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords>,content>,date,datetime) VALUES ('Новый учител' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 10:27:04 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords>,content>,date,datetime) VALUES ('новый','1','1','3','выаываываы','ывавыаываыва',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords>,content>,date,datetime) VALUES ('новый','1','1','3',' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 10:48:45 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords>,content>,date,datetime) VALUES ('asdasdasd','1','1','1','dasdsadasd','asdasdadsds',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords>,content>,date,datetime) VALUES ('asdasdasd','1','1','1','' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 10:53:46 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords>,content>,date,datetime) VALUES ('sdfsd','1','1','1','gfdgfd','fdgdf',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords>,content>,date,datetime) VALUES ('sdfsd','1','1','1','gfdg' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 10:55:11 - Ошибка в SQL Запросе: INSERT INTO teachers (name,parent_id>,menu_position>,content>) VALUES ('tryyr','1','1','rtyrty') - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,menu_position>,content>) VALUES ('tryyr','1','1','rtyrty')' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 10:56:24 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords>,content>,date,datetime) VALUES ('первый','1','1','1','ключ','ключ',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords>,content>,date,datetime) VALUES ('первый','1','1','1' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 10:59:47 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords>,content>,date,datetime) VALUES ('выаыа','1','1','1','ываыва','ывавыа',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords>,content>,date,datetime) VALUES ('выаыа','1','1','1',' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 24-06-2022 11:06:35 - Ошибка в SQL Запросе: INSERT INTO teachers (name,visible,menu_position>,parent_id>,keywords,content,date,datetime) VALUES ('Новый учитель','1','2','3','Ключевой','Контент',NOW(),NOW()) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>,parent_id>,keywords,content,date,datetime) VALUES ('Новый учитель'' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 10:45:57 - Ошибка в SQL Запросе: SELECT students.id as id,students.name FROM students  WHERE    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 10:53:21 - Ошибка в SQL Запросе: SELECT teachers.id as id,teachers.name,teachers.img,teachers.parent_id FROM teachers   ORDER BY   - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 12:35:35 - Ошибка в SQL Запросе: SELECT students.id as id,students.name FROM students  WHERE    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 12:36:15 - Ошибка в SQL Запросе: SELECT students.id as id,students.name FROM students  WHERE    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 12:36:29 - Ошибка в SQL Запросе: SELECT students.id as id,students.name FROM students  WHERE    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 12:38:49 - Ошибка в SQL Запросе: SELECT students.id as id,students.name FROM students  WHERE    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 12:44:22 - Ошибка в SQL Запросе: SELECT 1.id as id,1.name,1.img,1.parent_id FROM teachers   ORDER BY teachers.parent_id ASC,teachers.menu_position ASC  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,1.name,1.img,1.parent_id FROM teachers   ORDER BY teachers.parent_id ASC,t' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+
+Fault: 27-06-2022 12:44:27 - Ошибка в SQL Запросе: SELECT 1.id as id,1.name,1.img,1.parent_id FROM teachers   ORDER BY teachers.parent_id ASC,teachers.menu_position ASC  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as id,1.name,1.img,1.parent_id FROM teachers   ORDER BY teachers.parent_id ASC,t' at line 1
+file C:\OpenServer\domains\im.my\public_html\core\base\model\BaseModel.php
+In Line 38
+

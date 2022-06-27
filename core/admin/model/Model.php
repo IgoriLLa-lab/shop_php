@@ -14,6 +14,7 @@ class Model extends BaseModel
     {
 
         $db = DB_NAME;
+        $where = '';
 
         if ($key) $where = "AND COLUMN_NAME = '$key' LIMIT 1";
 

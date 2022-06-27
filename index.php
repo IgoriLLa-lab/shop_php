@@ -1,7 +1,7 @@
 <!--файл на который будут приходить все запросы которые захочет ввести user-->
 <?php
 
-const VG_ACCESS = true; //константа безопасиности
+const VG_ACCESS = true; //константа безопасности
 
 header('Content-Type:text/html;charset=utf-8');
 session_start();

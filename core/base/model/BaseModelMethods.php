@@ -4,13 +4,13 @@ namespace core\base\model;
 
 abstract class BaseModelMethods
 {
-    protected $sqlFunc = ['NOW()'];
+    protected array $sqlFunc = ['NOW()'];
 
     protected function createFields($set, $table = false): string
     {
         $set['fields'] = (is_array($set['fields']) && !empty($set['fields'])) ? $set['fields'] : ['*'];
 
-        $table = ($table && !$set['no_concat']) ? $table . '.' : '';
+        $table = ($table && !isset($set['no_concat'])) ? $table . '.' : '';
 
         $fields = '';
 
@@ -21,14 +21,14 @@ abstract class BaseModelMethods
         return $fields;
     }
 
-    protected function createOrder($set, $table = false)
+    protected function createOrder($set, $table = false): string
     {
 
-        $table = ($table && !$set['no_concat']) ? $table . '.' : '';
+        $table = ($table && !isset($set['no_concat'])) ? $table . '.' : '';
 
         $order_by = '';
 
-        if (is_array($set['order']) && !empty($set['order'])) {
+        if (is_array(isset($set['order'])) && !empty(isset($set['order']))) {
 
             $set['order_direction'] = (is_array($set['order_direction']) && !empty($set['order_direction']))
                 ? $set['order_direction'] : ['ASC'];
@@ -37,7 +37,7 @@ abstract class BaseModelMethods
             $direct_count = 0;
 
             foreach ($set['order'] as $order) {
-                if ($set['order_direction'][$direct_count]) {
+                if (isset($set['order_direction'][$direct_count])) {
                     $order_direction = strtoupper($set['order_direction'][$direct_count]);
                     $direct_count++;
                 } else {
@@ -55,17 +55,17 @@ abstract class BaseModelMethods
 
     }
 
-    protected function createWhere($set, $table = false, $instruction = "WHERE")
+    protected function createWhere($set, $table = false, string $instruction = "WHERE")
     {
-        $table = ($table && !$set['no_concat']) ? $table . '.' : '';
+        $table = ($table && !isset($set['no_concat'])) ? $table . '.' : '';
 
         $where = '';
 
-        if (is_string($set['where'])) {
+        if (is_string(isset($set['where']))) {
             return $instruction . ' ' . trim($set['where']);
         }
 
-        if (is_array($set['where']) && !empty($set['where'])) {
+        if (is_array(isset($set['where'])) && !empty($set['where'])) {
 
             $set['operand'] = (is_array($set['operand']) && !empty($set['operand'])) ? $set['operand'] : ['='];
             $set['condition'] = (is_array($set['condition']) && !empty($set['condition'])) ? $set['condition'] : ['AND'];
@@ -142,14 +142,14 @@ abstract class BaseModelMethods
         return $where;
     }
 
-    protected function createJoin($set, $table, $new_where = false)
+    protected function createJoin($set, $table, $new_where = false): array
     {
         $fields = '';
         $join = '';
         $where = '';
         $tables = '';
 
-        if ($set['join']) {
+        if (isset($set['join'])) {
             $join_table = $table;
 
             foreach ($set['join'] as $key => $item) {
@@ -211,7 +211,7 @@ abstract class BaseModelMethods
         return compact('fields', 'join', 'where', 'tables');
     }
 
-    protected function createInsert($fields, $files, $except)
+    protected function createInsert($fields, $files, $except): array
     {
         $insert_arr = [];
 

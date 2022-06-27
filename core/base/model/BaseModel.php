@@ -98,7 +98,7 @@ abstract class BaseModel extends BaseModelMethods
 
         $fields = rtrim($fields, ',');
 
-        $limit = $set['limit'] ? 'LIMIT ' . $set['limit'] : '';
+        $limit = isset($set['limit']) ? 'LIMIT ' . $set['limit'] : '';
 
         $query = "SELECT $fields FROM $table $join $where $order $limit";
 

@@ -31,7 +31,7 @@ class RouteController extends BaseController
             if (strrpos($address_str, '/') === strlen($address_str) - 1 &&
                 strrpos($address_str, '/') !== strlen(PATH) - 1) {
 
-                $this->redirect(rtrim($address_str, '/', 301));
+                $this->redirect(rtrim($address_str, '/', 301, null));
             }
 
             $this->routes = Settings::get('routes');
@@ -83,7 +83,7 @@ class RouteController extends BaseController
 
             $this->createRoute($route, $url);
 
-            if ($url[1]) {
+            if (isset($url[1])) {
                 $count = count($url);
                 $key = '';
 
@@ -115,7 +115,7 @@ class RouteController extends BaseController
         $route = [];
 
         if (!empty($arr[0])) {
-            if ($this->routes[$var]['routes'][$arr[0]]) {
+            if (isset($this->routes[$var]['routes'][$arr[0]])) {
                 $route = explode('/', $this->routes[$var]['routes'][$arr[0]]);
 
                 $this->controller .= ucfirst($route[0] . 'Controller');
@@ -126,8 +126,8 @@ class RouteController extends BaseController
             $this->controller .= $this->routes['default']['controller'];
         }
 
-        $this->inputMethod = $route[1] ? $route[1] : $this->routes['default']['inputMethod'];
-        $this->outputMethod = $route[2] ? $route[2] : $this->routes['default']['outputMethod'];
+        $this->inputMethod = isset($route[1]) ?: $this->routes['default']['inputMethod'];
+        $this->outputMethod = isset($route[2]) ?: $this->routes['default']['outputMethod'];
 
         return;
     }
